@@ -1,0 +1,32 @@
+[
+{
+    "_id": 3001,
+     "nombre": "J Barrister",
+     "tarifa_hr": 8.20, 
+     "oficio": "carpintero",
+     "boss": {
+        "id": 3231,
+        "name": "P Mason"
+    }
+},
+{
+    "_id": 1311,
+     "nombre": "C Coulomb",
+     "tarifa_hr": 15.50, 
+     "oficio": "electricista",
+     "boss": {
+        "id": 1311,
+        "name": "C Coulomb"
+    }
+},
+{
+    "_id": 1235,
+     "nombre": "M Faraday",
+     "tarifa_hr": 12.50, 
+     "oficio": "electricista",
+     "boss": {
+        "id": 1311,
+        "name": "C Coulomb"
+    }
+}
+]

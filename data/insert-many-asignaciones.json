@@ -1,0 +1,58 @@
+[
+  {
+    "trabajador":{
+      "id": 1412,
+      "nombre": "C Nemo"
+    },
+    "fecha_inicio": "2016-10-03 00:00:00",
+    "num_dias": 10,
+    "edificio": {
+      "direccion": "123 Elm",
+      "tipo": "oficina",
+      "nivel_calidad":2,
+      "categoria": 2
+    }
+  },
+  {
+    "trabajador":{
+      "id": 1412,
+      "nombre": "C Nemo"
+    },
+    "fecha_inicio": "2016-10-01 00:00:00",
+    "num_dias": 22,
+    "edificio": {
+      "direccion": "1415 Beec",
+      "tipo": "almacen",
+      "nivel_calidad": 3,
+      "categoria": 3
+    }
+  },
+  {
+    "trabajador":{
+      "id": 1311,
+      "nombre": "C Coulomb"
+    },
+    "fecha_inicio": "2016-10-08 00:00:00",
+    "num_dias": 12,
+    "edificio": {
+      "direccion": "456 Maple",
+      "tipo": "comercio",
+      "nivel_calidad": 1,
+      "categoria": 1
+    }
+  },
+  {
+    "trabajador":{
+      "id": 1311,
+      "nombre": "C Coulomb"
+    },
+    "fecha_inicio": "2016-10-23 00:00:00",
+    "num_dias": 24,
+    "edificio": {
+      "direccion": "1415 Beech",
+      "tipo": "almacen",
+      "nivel_calidad": 3,
+      "categoria": 3
+    }
+  }
+]
